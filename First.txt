@@ -1,2 +1,4 @@
 変更を加える
 変更を加える２
+.git add
+.git commit
